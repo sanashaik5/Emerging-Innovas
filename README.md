@@ -1,2 +1,16 @@
 # Emerging-Innovas
-Emerging innovas is a web based application where  user can post a problem and contribute to the one who provided the solution
+Emerging innovas is a web based application .It is an Application which is designed and developed using :
+*  HTML
+*  CSS
+*  javascript
+*  PHP Framework Codeigniter
+*  CSS Framework  BootStrap
+*  MySQL database of Wamp Server
+It is an application where:
+-> User can post the problems  and contribute to the other user who provide various solutions
+-> User can present his ideas and help in societal Growth and Individual growth .
+-> He can even visit the ideas of others too.
+-> He can delete his idea or modify his idea posted
+  If someone feel insecure can give details to the one who posted his problems
+  and mail in person 
+
