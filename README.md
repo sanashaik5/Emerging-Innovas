@@ -11,6 +11,5 @@ It is an application where:
 -> User can present his ideas and help in societal Growth and Individual growth .
 -> He can even visit the ideas of others too.
 -> He can delete his idea or modify his idea posted
-  If someone feel insecure can give details to the one who posted his problems
-  and mail in person 
+ 
 
