@@ -13,3 +13,4 @@ It is an application where:
 -> He can delete his idea or modify his idea posted
  
 
+  You can check the outputs of project in OutputImages folder
